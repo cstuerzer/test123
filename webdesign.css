@@ -1,0 +1,38 @@
+body {
+  margin: 100px;
+  font-family: "Helvetica", "Futura LT", sans-serif;
+  background-color: beige;
+  text-align: center;
+  color: white;
+}
+h1 {
+  font-size: 60px;
+  background-color: green;
+  padding: 30px;
+  color: yellow;
+}
+h3 {
+  font-size: 27px;
+  line-height: 120%;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  line-height: 150%;
+  width: 300px;
+  background-color: green;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 5px solid yellow;
+}
+img {
+  padding: 40px;
+  background-color: green;
+  margin: 100px;
+  height: 500px;
+}
+.kloan {
+  height: 100px;
+}
